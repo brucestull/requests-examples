@@ -1,3 +1,9 @@
+secrets.*
+
+local_things
+.vscode
+*.code-workspace
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
